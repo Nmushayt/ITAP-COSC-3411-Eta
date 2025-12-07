@@ -7,8 +7,8 @@ It is created for COSC-3411 (ITAP) as part of the Eta group assignment.
 - Clean and simple terminal interface
 - Works on any Linux system
 ## Installation
-git clone https://github.com/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
+git clone https://github.com/Nmushayt/ITAP-COSC-3411-Eta.git
+cd eta_study.py
 chmod +x study.sh
 ## Project Structure
 study.sh
