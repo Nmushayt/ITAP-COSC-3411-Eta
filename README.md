@@ -79,4 +79,26 @@ If you included a script like `eta_study.py` or `eta_tutor.sh`, then:
 git clone https://github.com/Nmushayt/ITAP-COSC-3411-Eta.git
 cd ITAP-COSC-3411-Eta
 python3 eta_study.py
+```
+Usage Example
+whoami  -> Shows current user
+ls      -> Lists files and directories
+mkdir   -> Creates a new directory
+...
+Project Structure
+ITAP-COSC-3411-Eta/
+│
+├── eta_study.py       # main script (if provided)
+├── commands.txt        # optional command list
+├── screenshots/        # optional images
+└── README.md           # project documentation
+Group ETA
+
+Nawaf Ben Mushayt
+Mouyed AlSibaa
+Student 3
+
+
+
+
 
