@@ -1,62 +1,21 @@
-# Linux Study Tutor – Eta Team  
-A simple Script-based study tool that displays Linux commands and examples.  
-This project is for ITAP/COSC-3411 under Eta group.
-
----
-
-## 📌 Features
-- Displays Linux commands in study-mode format  
-- Shows command description  
-- Menu-based navigation  
-
----
-
-## 🛠️ Installation
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/Nmushayt/ITAP-COSC-3411-Eta.git
-```
-A. System Information  
-whoami – shows current user  
-hostname – shows system hostname  
-uname -a – prints system details  
-
-B. File & Directory Commands  
-ls  
-ls -l  
-ls -a  
-cd  
-pwd  
-mkdir  
-rmdir  
-touch  
-rm  
-rm -r  
-
-C. File Viewing & Editing  
-cat  
-nl  
-head  
-tail  
-nano  
-
-D. Searching  
-find  
-grep  
-
-E. Processes  
-ps  
-top  
-kill  
-
-F. Permissions  
-chmod  
-chown  
-
-G. Networking  
-ifconfig  
-ping  
-netstat  
-curl  
-
+\# Linux Study Tool – Eta Team
+This project is a Script-based study tool that helps students practice Linux commands through an interactive menu. 
+It is created for COSC-3411 (ITAP) as part of the Eta group assignment.
+## Features
+- Menu-based tool
+- Study mode for learning Linux commands
+- Clean and simple terminal interface
+- Works on any Linux system
+## Installation
+git clone https://github.com/YOUR-REPO-NAME.git
+cd YOUR-REPO-NAME
+chmod +x study.sh
+## Project Structure
+study.sh
+README.md
+images/
+## Team
+Eta Group – COSC-3411
+Nawaf Ben Mushayt 201203279
+Mouyed Al Sibaa   201901021
+Rayan Al Umair    202000809
