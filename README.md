@@ -95,8 +95,8 @@ ITAP-COSC-3411-Eta/
 Group ETA
 
 Nawaf Ben Mushayt
-Mouyed AlSibaa
-Student 3
+Mouyed Al Sibaa
+Rayan Al Umair
 
 
 
