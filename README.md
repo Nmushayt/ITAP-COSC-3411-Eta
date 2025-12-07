@@ -1,4 +1,4 @@
-\# Linux Study Tool – Eta Team
+# Linux Study Tool – Eta Team
 This project is a Script-based study tool that helps students practice Linux commands through an interactive menu. 
 It is created for COSC-3411 (ITAP) as part of the Eta group assignment.
 ## Features
