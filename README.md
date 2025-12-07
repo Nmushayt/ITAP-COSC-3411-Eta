@@ -1,5 +1,5 @@
 # Linux Study Tutor – Eta Team  
-A simple Bash-based study tool that displays Linux commands and examples.  
+A simple Script-based study tool that displays Linux commands and examples.  
 This project is for ITAP/COSC-3411 under Eta group.
 
 ---
@@ -7,7 +7,6 @@ This project is for ITAP/COSC-3411 under Eta group.
 ## 📌 Features
 - Displays Linux commands in study-mode format  
 - Shows command description  
-- Shows example usage exactly as in the screenshot  
 - Menu-based navigation  
 
 ---
