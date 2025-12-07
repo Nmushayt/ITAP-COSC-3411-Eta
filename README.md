@@ -1,5 +1,5 @@
 # ITAP-COSC-3411-Eta
-Linux Commends
+
 # ETA Project – Kali Linux Command Tutor  
 This project is created by **Group ETA** for the course **ITAP\COSC-3411**.  
 It provides a simple and clear explanation of commonly used Linux/Kali commands with examples.  
