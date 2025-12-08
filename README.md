@@ -21,6 +21,11 @@ Once the script starts, you will see a menu with categories such as:
 	•	Permissions
 	•	Networking
 Choose a category to display example commands and explanations.
+study.sh
+README.md
+## License
+This project is for academic use only under COSC-3411 (ITAP).
+Not for commercial distribution.
 ## Team
 Eta Group – COSC-3411
 Nawaf Ben Mushayt 201203279
