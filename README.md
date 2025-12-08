@@ -34,5 +34,6 @@ Rayan Al Umair    202000809
 ## Screenshot
 <img width="800" height="446" alt="Screenshot 2025-12-08 131649" src="https://github.com/user-attachments/assets/b8631774-faf6-4ebf-8c5c-d4d236051868" />
 <img width="796" height="441" alt="Screenshot 2025-12-08 131659" src="https://github.com/user-attachments/assets/2ab44e52-3ae7-4e83-af15-7e8693d11316" />
-<img width="799" height="420" alt="Screenshot 2025-12-08 131710" src="https://github.com/user-attachments/assets/c179806a-51c3-423f-ae3e-bfe1fe291460" />
+<img width="540" height="218" alt="Screenshot 2025-12-08 131920" src="https://github.com/user-attachments/assets/b572816c-f693-4169-a1be-a9d0e3f3fa9e" />
+
 
