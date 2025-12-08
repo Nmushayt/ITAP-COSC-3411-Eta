@@ -8,12 +8,22 @@ It is created for COSC-3411 (ITAP) as part of the Eta group assignment.
 - Works on any Linux system
 ## Installation
 git clone https://github.com/Nmushayt/ITAP-COSC-3411-Eta.git
-cd eta_study.py
-chmod +x study.sh
 ## Project Structure
 study.sh
-README.md
-images/
+README.md 
+## Usage
+Once the script starts, you will see a menu with categories such as:
+	•	System Information
+	•	File & Directory Commands
+	•	File Viewing & Editing
+	•	Searching
+	•	Processes
+	•	Permissions
+	•	Networking
+Choose a category to display example commands and explanations.
+## License
+This project is for academic use only under COSC-3411 (ITAP).
+Not for commercial distribution.
 ## Team
 Eta Group – COSC-3411
 Nawaf Ben Mushayt 201203279
